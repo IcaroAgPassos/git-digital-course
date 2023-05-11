@@ -4,6 +4,7 @@
 
 * planejei fazer outra alteração do nada
 
+* git init = inicia o git na pasta selecionada
 * git status = serve para ver os status
 * git diff = verifica diferenças entre o arquivo anterior e o salvo atualmente.
 * git add = prepara as alterações feitas no arquivo ou pasta selecionada.
