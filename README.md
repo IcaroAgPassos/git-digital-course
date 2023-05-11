@@ -25,10 +25,21 @@
     ele tira o último save do arquivo.
     
 * git restore --staged
+    retira o sabe do local de stage
 
 * comando git push
+    manda o arquivo para branch
+    (git push origin master)
 
-    
+* git remote
+    demonstra local da origem remota
+
+* git pull 
+    puxa tudo que tem no repositório remoto e junta com este repositório (cuidado com esse comando)
+
+* git fetch
+    verifica o que vai ser puxado pelo git pull (caso tenha feito alteração direto no GitHub)
+    (usar git diff origin/master para verificar quais as alterações feitas antes de trazer)
 
 
 
