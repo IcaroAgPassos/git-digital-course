@@ -24,6 +24,9 @@
     ele tira o último save do arquivo.
     
 * git restore --staged
+
+* comando git push
+
     
 
 
