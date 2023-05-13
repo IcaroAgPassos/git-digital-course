@@ -41,6 +41,22 @@
     verifica o que vai ser puxado pelo git pull (caso tenha feito alteração direto no GitHub)
     (usar git diff origin/master para verificar quais as alterações feitas antes de trazer)
 
+# AULA DIA 13/05
 
+* git branch (nome)
+    cria uma nova branch com o nome que você colocar dentro
+
+* git log --oneline --decorate
+    indica aonde seu HEAD está apontando (aonde você está)
+
+* git checkout "nome da branch"
+    te move para a branch que você deseja
+
+# AULA MERGING BRANCHES
+
+* git merge (nome da branch)
+    (tem que estar na branch onde você quer receber) o comando puxa os arquivos da branch que você deseja.
+    forma de unir duas branchs em uma única.
+    (se as pessoas mexerem na mesma linha de código, podem acabar ocorrendo conflitos, o git vai pedir para resolver os conflitos antes de fazer o merge)
 
 
